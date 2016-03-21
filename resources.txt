@@ -1,8 +1,0 @@
-http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
-http://scikit-learn.org/stable/modules/ensemble.html#adaboost
-http://scikit-learn.org/stable/auto_examples/ensemble/plot_adaboost_twoclass.html#example-ensemble-plot-adaboost-twoclass-py
-http://scikit-learn.org/stable/modules/generated/sklearn.grid_search.GridSearchCV.html#sklearn.grid_search.GridSearchCV
-http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
-http://stackoverflow.com/questions/16010869/python-plot-a-bar-using-matplotlib-using-a-dictionary
-http://scikit-learn.org/stable/auto_examples/model_selection/plot_validation_curve.html
-http://stackoverflow.com/questions/18172851/deleting-dataframe-row-in-pandas-based-on-column-valuehttp://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.DataFrame.to_dict.html
