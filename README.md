@@ -1,6 +1,8 @@
 #Identifying Fraud from Enron Email
 ###Completed as final project for the course Intro to Machine Learning from Udacity
 
+For the ipython notebook containing the analysis for this project visit [this link](http://willemolding.github.io/IdentifyFraudEnron/)
+
 1. The goal of this project was to construct a classifier capable of identifying which Enron employees were deemed Persons Of Interest (POIs) in the court proceedings following the companies collapse. A person of interest is defined as a person who was either charged, settled, or testified in exchange for immunity. The ideas behind this project could be used to build systems to monitor companies for internal fraud and expose it.
 The data available is comprised of two components. The first component is financial data about the employees of the company. This includes many features including salary, bonuses, and stock options. The second part of the dataset was derived from the company email records. It specifically relates to how regularly employees communicated via email with POIs and non-POIs. The intuition behind this data is that employees collectively engaged in fraud would communicate more with each other to organise fraudulent activities. 
 Unfortunately both the financial and email data contained missing values. The missing fields in the financial data I concluded represented the same thing as a zero value. For example a person who does not receive a bonus would have a NaN value in the bonus field. For the financial features I replaced all the NaNs with zeros.  Some possibilities for how to deal with the missing values are:
